@@ -7,8 +7,8 @@ crop problems from a leaf photo, warns about weather risk, and answers farming
 questions — on an ordinary Android phone, **with no signal**. When a signal
 appears it can ask Claude Haiku for help, but it never needs to.
 
-> **Hack-Nation × World Bank Youth Summit** · Challenge 04b — *Small AI for
-> Development* · **Track B: Agriculture**
+> **Hack-Nation × World Bank Youth Summit** · Challenge 04b — _Small AI for
+> Development_ · **Track B: Agriculture**
 
 ### ⬇ [Download the Android APK](https://drive.google.com/file/d/134zTtlbgaEjsoSXXJ_4Q6iK-6ZXOaRA-/view?usp=sharing)
 
@@ -37,15 +37,15 @@ towns. A tool that needs a connection is a tool most farmers cannot use.
 
 ![The app](docs/diagrams/07-app-screens.png)
 
-| | |
-|---|---|
-| 📷 **Scan a leaf** | 14 classes on the phone: maize, rice, tomato, **papaya** — and "that is not a leaf" |
-| 🤔 **Say "I don't know"** | When two classes are close it refuses to guess and points to an extension officer |
+|                              |                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 📷 **Scan a leaf**           | 14 classes on the phone: maize, rice, tomato, **papaya** — and "that is not a leaf"                                |
+| 🤔 **Say "I don't know"**    | When two classes are close it refuses to guess and points to an extension officer                                  |
 | ☁️ **Ask Claude when stuck** | If the phone cannot place the leaf, the photo goes to Claude Haiku's vision — only on a link measured under 600 ms |
-| 🌦️ **Weather + risk** | Live forecast with real soil moisture; transparent rules say *why* a crop is at risk |
-| 💬 **Ask a question** | 49 offline articles → on-device language model → Claude, in that order |
-| 🗺️ **Pin your field** | OpenStreetMap, tiles cached for offline use; the forecast follows your plot |
-| 🇹🇱 **Tetun or English** | The whole interface, not a token string |
+| 🌦️ **Weather + risk**        | Live forecast with real soil moisture; transparent rules say _why_ a crop is at risk                               |
+| 💬 **Ask a question**        | 49 offline articles → on-device language model → Claude, in that order                                             |
+| 🗺️ **Pin your field**        | OpenStreetMap, tiles cached for offline use; the forecast follows your plot                                        |
+| 🇹🇱 **Tetun or English**      | The whole interface, not a token string                                                                            |
 
 ---
 
@@ -53,17 +53,17 @@ towns. A tool that needs a connection is a tool most farmers cannot use.
 
 ### The four rules (§06)
 
-| Rule | How |
-|---|---|
-| Runs on a device the user already has | Ordinary Android phone — camera, storage, intermittent 3G |
-| Its core feature works offline | Scanning, records, advice and risk are all on-device |
-| Model files small enough to side-load or send over a weak connection | **1.9 MB** vision model, bundled. The optional 770 MB language models are *not* small enough — which is why the app works fully without them |
-| At least one interaction in a local language | **Tetun** — named, and the entire interface |
+| Rule                                                                 | How                                                                                                                                          |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Runs on a device the user already has                                | Ordinary Android phone — camera, storage, intermittent 3G                                                                                    |
+| Its core feature works offline                                       | Scanning, records, advice and risk are all on-device                                                                                         |
+| Model files small enough to side-load or send over a weak connection | **1.9 MB** vision model, bundled. The optional 770 MB language models are _not_ small enough — which is why the app works fully without them |
+| At least one interaction in a local language                         | **Tetun** — named, and the entire interface                                                                                                  |
 
 ### Responsible AI — the pass/fail criterion
 
-The brief asks for a fail-safe: *"not sure — ask a person" rather than
-guessing.* Here that is **code, not a disclaimer**:
+The brief asks for a fail-safe: _"not sure — ask a person" rather than
+guessing._ Here that is **code, not a disclaimer**:
 
 ```
 report a result only if   confidence ≥ 0.55   AND   top1 − top2 ≥ 0.20
@@ -74,7 +74,7 @@ It exists because an early model called a **healthy maize leaf
 `rice_bacterial_blight` at 74% confidence**. A confidently wrong answer is
 worse for a farmer than no answer.
 
-### Data grounding (§7.2 — *scored*)
+### Data grounding (§7.2 — _scored_)
 
 The training photographs were taken in the United States, South-East Asia and
 Bangladesh — **not Timor-Leste**. PlantVillage is studio imagery on plain
@@ -90,15 +90,15 @@ and that reading was saved to the phone.
 
 ## Evidence
 
-| | |
-|---|---|
-| Vision model | **95.1%** validation on 14 classes, 1.9 MB, **1.4 s** per photo on device |
-| Papaya | **97%** on healthy leaves — the class a farmer tests first on the tree in their yard |
-| Held-out check | **158 correct · 7 unclear · 3 wrong** out of 168 |
-| Tests | **103 passing**, `flutter analyze` clean |
-| Tetun | 12 tests assert every string genuinely differs from English |
-| On device | Verified on a CPH2577 (Android 15) and a Pixel 7 emulator, release build |
-| Backend | Live on Lightsail; answers in Tetun when asked |
+|                |                                                                                      |
+| -------------- | ------------------------------------------------------------------------------------ |
+| Vision model   | **95.1%** validation on 14 classes, 1.9 MB, **1.4 s** per photo on device            |
+| Papaya         | **97%** on healthy leaves — the class a farmer tests first on the tree in their yard |
+| Held-out check | **158 correct · 7 unclear · 3 wrong** out of 168                                     |
+| Tests          | **103 passing**, `flutter analyze` clean                                             |
+| Tetun          | 12 tests assert every string genuinely differs from English                          |
+| On device      | Verified on a CPH2577 (Android 15) and a Pixel 7 emulator, release build             |
+| Backend        | Live on Lightsail; answers in Tetun when asked                                       |
 
 ---
 
@@ -140,13 +140,13 @@ the app. The backend is optional; see
 
 Full documentation is in **[`docs/`](docs/)**. Start with:
 
-| | |
-|---|---|
-| **[docs/README.md](docs/README.md)** | Index and current state |
-| **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** | Eight diagrams — system, application, routing, deployment, data pipeline, sequence, screens |
-| **[docs/DATASETS.md](docs/DATASETS.md)** | Every dataset, licence, and what it does not cover |
-| **[docs/CROP_COVERAGE.md](docs/CROP_COVERAGE.md)** | Which crops work offline, which need internet |
-| **[docs/LOCAL_LANGUAGE.md](docs/LOCAL_LANGUAGE.md)** | Tetun, and how this would fare in a less-supported language |
+|                                                      |                                                                                             |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **[docs/README.md](docs/README.md)**                 | Index and current state                                                                     |
+| **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**     | Eight diagrams — system, application, routing, deployment, data pipeline, sequence, screens |
+| **[docs/DATASETS.md](docs/DATASETS.md)**             | Every dataset, licence, and what it does not cover                                          |
+| **[docs/CROP_COVERAGE.md](docs/CROP_COVERAGE.md)**   | Which crops work offline, which need internet                                               |
+| **[docs/LOCAL_LANGUAGE.md](docs/LOCAL_LANGUAGE.md)** | Tetun, and how this would fare in a less-supported language                                 |
 
 ```
 Lafaek AI Farm/mobile-app/   Flutter app — the product
