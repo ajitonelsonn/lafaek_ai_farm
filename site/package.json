@@ -1,0 +1,25 @@
+{
+  "name": "lafaek-ai-farm-docs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Documentation site for Lafaek AI Farm. Renders the project's own Markdown, synced from the repository.",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "dev": "npm run sync && vite",
+    "build": "npm run sync && vite build",
+    "preview": "vite preview",
+    "check": "node scripts/sync.mjs --check"
+  },
+  "dependencies": {
+    "highlight.js": "^11.11.1",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.7"
+  }
+}

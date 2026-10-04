@@ -1,0 +1,73 @@
+name: Documentation site
+
+# Builds the Vue site in `site/` and publishes it to GitHub Pages.
+#
+# The site has no content of its own: `scripts/sync.mjs` reads the repository's
+# own Markdown at build time. A documentation change is therefore just a commit
+# to the Markdown — nothing here needs touching.
+#
+# One-time setup: Settings → Pages → Source → GitHub Actions.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'site/**'
+      - 'README.MD'
+      - 'Lafaek AI Farm/README.md'
+      - 'Lafaek AI Farm/mobile-app/tools/assets/README.md'
+      - '.github/workflows/docs-site.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # sync.mjs asks git which files are tracked, so it needs the index,
+          # not just a tarball of the tree.
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - run: npm ci
+        working-directory: site
+
+      - run: npm run build
+        working-directory: site
+        env:
+          BASE_PATH: /${{ github.event.repository.name }}/
+
+      # Pages serves static files, so a deep link such as /architecture would
+      # 404 on reload. A copy of index.html as 404.html hands those URLs back
+      # to the router.
+      - run: cp site/dist/index.html site/dist/404.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
