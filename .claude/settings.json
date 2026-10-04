@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/opt/anaconda3/bin/python3 -)",
+      "Bash(flutter analyze *)",
+      "Bash(adb -s 956L6PKRAAX8BMI7 logcat -d)"
+    ]
+  }
+}
