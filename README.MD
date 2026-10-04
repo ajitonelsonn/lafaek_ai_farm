@@ -10,6 +10,12 @@ appears it can ask Claude Haiku for help, but it never needs to.
 > **Hack-Nation × World Bank Youth Summit** · Challenge 04b — *Small AI for
 > Development* · **Track B: Agriculture**
 
+### ⬇ [Download the Android APK](https://drive.google.com/file/d/134zTtlbgaEjsoSXXJ_4Q6iK-6ZXOaRA-/view?usp=sharing)
+
+Android 8+, arm64. No account, no API key, no signal. **Turn on airplane mode
+before you try it** — the offline behaviour is the whole point, and the app
+ships with no demo data, so what you see is what it really does.
+
 ![System architecture](docs/diagrams/01-system-architecture.png)
 
 ---
@@ -97,6 +103,23 @@ and that reading was saved to the phone.
 ---
 
 ## Running it
+
+### Just install it
+
+**[Download the APK](https://drive.google.com/file/d/134zTtlbgaEjsoSXXJ_4Q6iK-6ZXOaRA-/view?usp=sharing)**
+on an Android phone (8+, arm64) and allow install from that source. Then:
+
+1. Complete onboarding — name, municipality, farm, field, crop. It saves with
+   no signal, because there is no demo data to fall back on.
+2. **Turn on airplane mode.** This is the test that matters.
+3. Scan a maize, rice, tomato or papaya leaf. Or scan something that is not a
+   leaf, and watch it say so.
+4. Ask the assistant a question, open **Weather**, switch to **Tetun**, then
+   kill the app and reopen it. Everything is still there.
+5. Turn the network back on and reopen a scan the phone could not identify —
+   Claude's reading appears, and is saved.
+
+### Or build it
 
 ```bash
 cd "Lafaek AI Farm/mobile-app"

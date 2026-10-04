@@ -15,6 +15,10 @@ For the problem statement, diagrams and evidence see the
 
 ## Run
 
+**Just want to try it?**
+[Download the APK](https://drive.google.com/file/d/134zTtlbgaEjsoSXXJ_4Q6iK-6ZXOaRA-/view?usp=sharing)
+(Android 8+, arm64) and follow the airplane-mode walkthrough below.
+
 ```bash
 cd mobile-app
 flutter pub get
