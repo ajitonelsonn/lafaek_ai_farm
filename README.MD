@@ -154,7 +154,7 @@ backend/                     FastAPI service that holds the Anthropic key
 docs/                        Documentation, diagrams, screenshots
 ```
 
----
+## --
 
 ## Credits
 
