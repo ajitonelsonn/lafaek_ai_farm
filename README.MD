@@ -10,11 +10,16 @@ appears it can ask Claude Haiku for help, but it never needs to.
 > **Hack-Nation × World Bank Youth Summit** · Challenge 04b — _Small AI for
 > Development_ · **Track B: Agriculture**
 
-### ⬇ [Download the Android APK](https://drive.google.com/file/d/134zTtlbgaEjsoSXXJ_4Q6iK-6ZXOaRA-/view?usp=sharing)
+### 📖 [Read the full documentation](https://ajitonelsonn.github.io/lafaek_ai_farm/) &nbsp;·&nbsp; ⬇ [Download the Android APK](https://drive.google.com/file/d/134zTtlbgaEjsoSXXJ_4Q6iK-6ZXOaRA-/view?usp=sharing)
 
-Android 8+, arm64. No account, no API key, no signal. **Turn on airplane mode
-before you try it** — the offline behaviour is the whole point, and the app
-ships with no demo data, so what you see is what it really does.
+Everything below, plus the architecture, the datasets and their gaps, the model
+cards and the test matrix, is browsable at
+**[ajitonelsonn.github.io/lafaek_ai_farm](https://ajitonelsonn.github.io/lafaek_ai_farm/)**
+— searchable, with every diagram readable full-size.
+
+The APK is Android 8+, arm64. No account, no API key, no signal. **Turn on
+airplane mode before you try it** — the offline behaviour is the whole point,
+and the app ships with no demo data, so what you see is what it really does.
 
 ![System architecture](docs/diagrams/01-system-architecture.png)
 
@@ -138,7 +143,10 @@ the app. The backend is optional; see
 
 ## Documentation
 
-Full documentation is in **[`docs/`](docs/)**. Start with:
+The easiest way to read all of it is the documentation site —
+**[ajitonelsonn.github.io/lafaek_ai_farm](https://ajitonelsonn.github.io/lafaek_ai_farm/)**
+— which publishes these same files with search, a sidebar and full-size
+diagrams. The sources are in **[`docs/`](docs/)**. Start with:
 
 |                                                      |                                                                                             |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------- |

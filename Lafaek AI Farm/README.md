@@ -11,7 +11,8 @@ offline outbox all run locally. An optional language model (llama.cpp) and an
 optional Claude Haiku backend add to that; neither is required.
 
 For the problem statement, diagrams and evidence see the
-[repository README](../README.MD) and [`docs/`](../docs/).
+**[documentation site](https://ajitonelsonn.github.io/lafaek_ai_farm/)**, or the
+[repository README](../README.MD) and [`docs/`](../docs/) they are built from.
 
 ## Run
 

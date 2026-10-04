@@ -8,9 +8,11 @@
       name="description"
       content="Documentation for Lafaek AI Farm, an offline-first agricultural assistant for smallholder farmers in Timor-Leste."
     />
-    <!-- The app's own launcher artwork, copied into public/brand/ by the sync script. -->
-    <link rel="icon" type="image/png" href="./brand/logo.png" />
-    <link rel="apple-touch-icon" href="./brand/logo.png" />
+    <!-- The app's own launcher artwork, copied into public/brand/ by the sync
+         script. %BASE_URL% is substituted by Vite, so these stay correct when
+         the site is served from a sub-path such as /lafaek_ai_farm/. -->
+    <link rel="icon" type="image/png" href="%BASE_URL%brand/logo.png" />
+    <link rel="apple-touch-icon" href="%BASE_URL%brand/logo.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
