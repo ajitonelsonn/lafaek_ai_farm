@@ -1,0 +1,147 @@
+[
+  {
+    "id": "crop_maize",
+    "title": "Maize (Batar)",
+    "category": "crop",
+    "crop": "maize",
+    "summary": "Maize is the main staple crop of Timor-Leste, grown mostly in the wet season on rain-fed land.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Plant at the start of the wet season (November–December) after the first good rains.",
+      "Space rows about 75 cm apart with 25 cm between plants; 2 seeds per hole, thin to 1.",
+      "Weed at 2 and 5 weeks after emergence — early weeds cause the biggest yield loss.",
+      "Top-dress with nitrogen (compost, manure tea or urea) when plants are knee high.",
+      "Harvest when husks are dry and kernels are hard, usually 90–120 days after planting.",
+      "Dry cobs well before storage; use sealed drums or bags to stop weevils."
+    ],
+    "severity": "none",
+    "keywords": ["maize", "corn", "batar", "staple", "planting maize", "maize spacing", "maize harvest", "sele", "noi mutin"],
+    "sections": [
+      {"heading": "Varieties", "body": "Sele and Noi Mutin are improved open-pollinated varieties released in Timor-Leste with higher yield than local types. Keep seed from healthy, well-filled cobs for next season."},
+      {"heading": "Planting", "body": "Plant at the start of the wet season after the first good rains. Space rows 75 cm apart and plants 25 cm apart. Plant 2 seeds per hole and thin to the strongest plant."},
+      {"heading": "Care", "body": "Weed at 2 and 5 weeks. Top-dress with compost or nitrogen when plants reach knee height. Watch for fall armyworm in the whorl during the first 6 weeks."},
+      {"heading": "Harvest and storage", "body": "Harvest when husks are dry and kernels are hard. Dry cobs fully before storing in sealed drums to prevent weevil damage."}
+    ]
+  },
+  {
+    "id": "crop_rice",
+    "title": "Rice (Hare)",
+    "category": "crop",
+    "crop": "rice",
+    "summary": "Lowland rice is grown in irrigated or rain-fed paddies; nursery seedlings are transplanted into level, flooded fields.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Sow pre-soaked seed in a level, well-drained nursery bed 3–4 weeks before transplanting.",
+      "Transplant seedlings at 20–25 days, 2–3 seedlings per hill, 20 cm × 20 cm spacing.",
+      "Keep fields level so water depth is even (3–5 cm during tillering).",
+      "Drain the field for a few days at maximum tillering to strengthen roots.",
+      "Drain fully 1–2 weeks before harvest.",
+      "Harvest when 80–85% of grains are golden yellow."
+    ],
+    "severity": "none",
+    "keywords": ["rice", "hare", "paddy", "transplanting", "nursery", "tillering", "nakroma", "lowland rice"],
+    "sections": [
+      {"heading": "Nursery", "body": "Soak seed for 24 hours, drain for 24 hours, then sow in a raised, level nursery bed. Keep the bed moist, not flooded, for the first week."},
+      {"heading": "Transplanting", "body": "Transplant at 20–25 days. Plant 2–3 seedlings per hill at 20 × 20 cm. Shallow planting (2–3 cm) gives faster tillering."},
+      {"heading": "Water", "body": "Maintain 3–5 cm of water during tillering. Drain briefly at maximum tillering, then keep water until 1–2 weeks before harvest."},
+      {"heading": "Harvest", "body": "Harvest when 80–85% of the panicle is golden. Dry grain to 14% moisture before storage."}
+    ]
+  },
+  {
+    "id": "crop_tomato",
+    "title": "Tomato (Tomate)",
+    "category": "crop",
+    "crop": "tomato",
+    "summary": "Tomato is a valuable vegetable crop best grown in the drier months; it is sensitive to fungal disease in humid weather.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Raise seedlings in trays or a nursery bed; transplant at 3–4 weeks.",
+      "Space plants 50 cm apart in rows 70–100 cm apart.",
+      "Stake or trellis plants and remove lower leaves to keep air moving.",
+      "Water at the base in the morning; never wet the leaves.",
+      "Mulch with dry grass to keep soil moist and stop soil splashing onto leaves.",
+      "Rotate: do not plant tomato, chili or potato in the same bed two seasons in a row."
+    ],
+    "severity": "none",
+    "keywords": ["tomato", "tomate", "vegetable", "staking", "trellis", "blight", "fruit"],
+    "sections": [
+      {"heading": "Planting", "body": "Sow in trays and transplant at 3–4 weeks. Space 50 cm in the row and 70–100 cm between rows. The dry season (May–October) with irrigation gives the healthiest crop."},
+      {"heading": "Care", "body": "Stake plants, remove suckers and lower leaves, and mulch. Water at the base early in the morning. Feed with compost every 2–3 weeks."},
+      {"heading": "Harvest", "body": "Pick fruit when it starts to colour; it will ripen fully off the plant. Harvest every 2–3 days to keep plants producing."}
+    ]
+  },
+  {
+    "id": "crop_chili",
+    "title": "Chili (Ai-manas)",
+    "category": "crop",
+    "crop": "chili",
+    "summary": "Chili is a high-value crop that tolerates heat well but needs good drainage and regular harvesting.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Transplant seedlings at 4–6 weeks, 40–50 cm apart.",
+      "Plant on raised beds for drainage.",
+      "Mulch and water regularly; flowers drop if the plant dries out.",
+      "Harvest ripe fruit every few days to encourage more flowering.",
+      "Remove and destroy fruit with dark sunken spots (anthracnose)."
+    ],
+    "severity": "none",
+    "keywords": ["chili", "chilli", "ai-manas", "pepper", "capsicum", "anthracnose", "raised bed"],
+    "sections": [
+      {"heading": "Planting", "body": "Raise seedlings for 4–6 weeks, then transplant 40–50 cm apart on raised beds. Chili likes full sun and well-drained soil."},
+      {"heading": "Care", "body": "Water regularly but avoid waterlogging. Mulch to keep moisture even. Feed with compost monthly."},
+      {"heading": "Harvest", "body": "Pick fruit when fully coloured. Regular picking keeps the plant productive for many months."}
+    ]
+  },
+  {
+    "id": "crop_beans",
+    "title": "Beans (Fore)",
+    "category": "crop",
+    "crop": "beans",
+    "summary": "Common beans and cowpeas fix nitrogen, improve soil and are an excellent rotation crop after maize.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Plant directly in the field, 2 seeds per hole, 30 cm apart in rows 50 cm apart.",
+      "Do not over-fertilise with nitrogen; beans make their own.",
+      "Intercrop with maize or plant after maize to restore soil fertility.",
+      "Harvest green pods young, or leave to dry fully for seed."
+    ],
+    "severity": "none",
+    "keywords": ["beans", "fore", "cowpea", "legume", "nitrogen", "rotation", "intercrop"],
+    "sections": [
+      {"heading": "Why grow beans", "body": "Beans fix nitrogen from the air into the soil, so the crop that follows (usually maize) grows better. They also mature quickly, in 60–90 days."},
+      {"heading": "Planting", "body": "Sow directly, 30 cm apart in rows 50 cm apart. Beans can be intercropped between maize rows."},
+      {"heading": "Harvest", "body": "Pick green pods young for eating. For dry beans, let pods dry on the plant, then shell and sun-dry the seed."}
+    ]
+  },
+  {
+    "id": "crop_cassava",
+    "title": "Cassava (Ai-farina)",
+    "category": "crop",
+    "crop": "cassava",
+    "summary": "Cassava is a hardy root crop that tolerates poor soil and drought, providing food security between harvests.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Plant stem cuttings 20–25 cm long, 1 m apart, at the start of the rains.",
+      "Weed during the first 3 months until the canopy closes.",
+      "Harvest roots from 9–12 months; leaves can be eaten as a vegetable."
+    ],
+    "severity": "none",
+    "keywords": ["cassava", "ai-farina", "root crop", "cuttings", "drought"],
+    "sections": [
+      {"heading": "Planting", "body": "Use healthy stem cuttings 20–25 cm long from plants 8–12 months old. Plant at an angle, 1 m apart, when the rains begin."},
+      {"heading": "Care and harvest", "body": "Keep weed-free for the first 3 months. Harvest from 9 months; roots keep best if left in the ground and dug as needed."}
+    ]
+  }
+]

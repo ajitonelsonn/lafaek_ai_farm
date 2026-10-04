@@ -1,0 +1,269 @@
+[
+  {
+    "id": "fall_armyworm",
+    "title": "Fall Armyworm",
+    "category": "pest",
+    "crop": "maize",
+    "summary": "A caterpillar that hides in the maize whorl and chews ragged holes in young leaves; the most serious maize pest in Timor-Leste.",
+    "symptoms": [
+      "Ragged holes and windows in young leaves",
+      "Sawdust-like droppings (frass) in the whorl",
+      "Caterpillars up to 4 cm with an inverted Y on the head and four dots in a square on the last segment",
+      "Damaged tassels and bored cobs later in the season"
+    ],
+    "causes": [
+      "Moths lay eggs on maize leaves; larvae feed for 2–3 weeks",
+      "Continuous maize planting keeps the pest cycle going",
+      "Warm weather with a green crop available"
+    ],
+    "prevention": [
+      "Plant early and at the same time as neighbours to avoid staggered food supply",
+      "Intercrop maize with beans or plant push-pull companion plants where available",
+      "Encourage natural enemies: birds, wasps, ants and earwigs",
+      "Scout the field twice a week from emergence to 6 weeks"
+    ],
+    "actions": [
+      "Check plants early in the morning; hand-pick and crush larvae in the whorl",
+      "Apply a pinch of sand, ash or soil into the whorl to dislodge small larvae",
+      "Remove and destroy heavily infested plants if damage is over 20%",
+      "Ask your extension officer about locally approved biological or chemical options; follow label rates exactly"
+    ],
+    "severity": "high",
+    "keywords": ["armyworm", "fall armyworm", "caterpillar", "worm", "holes in leaves", "ragged leaves", "whorl", "frass", "sawdust", "maize pest", "larvae"],
+    "sections": [
+      {"heading": "Signs", "body": "Ragged holes in young leaves and sawdust-like frass in the whorl. Look for caterpillars with an inverted Y on the head."},
+      {"heading": "What to do", "body": "Scout early in the morning, hand-pick larvae, put ash or sand in the whorl, and seek advice on approved treatments if damage is severe."}
+    ]
+  },
+  {
+    "id": "maize_stem_borer",
+    "title": "Maize Stem Borer",
+    "category": "pest",
+    "crop": "maize",
+    "summary": "Larvae tunnel inside the stem, weakening the plant so it snaps or lodges and produces small cobs.",
+    "symptoms": [
+      "Rows of small holes across young leaves (pin-holes and windows)",
+      "Dead heart: the central leaf dies in young plants",
+      "Holes in the stem with sawdust-like frass pushed out",
+      "Plants break or fall over in wind"
+    ],
+    "causes": [
+      "Moths lay eggs on leaves; larvae bore into the stem",
+      "Old maize stalks left in the field over the dry season"
+    ],
+    "prevention": [
+      "Chop and bury or burn old stalks after harvest",
+      "Plant early in the season",
+      "Intercrop with beans; the mixed crop confuses the moths"
+    ],
+    "actions": [
+      "Remove and destroy plants with dead heart",
+      "Split damaged stems and kill the larvae",
+      "Seek advice on approved treatments if more than 1 in 10 plants are damaged"
+    ],
+    "severity": "medium",
+    "keywords": ["stem borer", "borer", "dead heart", "holes in stem", "pin holes", "lodging", "maize pest"],
+    "sections": [
+      {"heading": "Signs", "body": "Pin-holes across leaves, dead central leaf in young plants, and frass pushed out of stem holes."},
+      {"heading": "What to do", "body": "Destroy plants with dead heart, clear old stalks after harvest, and seek advice if damage is widespread."}
+    ]
+  },
+  {
+    "id": "aphids",
+    "title": "Aphids",
+    "category": "pest",
+    "crop": "general",
+    "summary": "Tiny soft green or black insects clustered on new shoots and under leaves; they suck sap, curl leaves and spread viruses.",
+    "symptoms": [
+      "Clusters of tiny green, black or grey insects on shoots and under leaves",
+      "Curled, sticky or shiny leaves (honeydew) and black sooty mould",
+      "Stunted, twisted new growth",
+      "Ants running up and down the plant"
+    ],
+    "causes": [
+      "Warm dry weather and soft new growth from too much nitrogen",
+      "Few natural enemies early in the season"
+    ],
+    "prevention": [
+      "Avoid excess nitrogen fertiliser",
+      "Keep flowering plants nearby to attract ladybirds and hoverflies",
+      "Check under leaves weekly"
+    ],
+    "actions": [
+      "Spray a strong jet of water to knock aphids off",
+      "Squash small colonies by hand",
+      "Use a mild soap-water spray (about 1 tablespoon of soap in 1 litre of water) on the undersides of leaves; test on a few leaves first",
+      "Encourage ladybirds; avoid broad-spectrum insecticides that kill them"
+    ],
+    "severity": "low",
+    "keywords": ["aphid", "aphids", "small insects", "green insects", "black insects", "sticky leaves", "honeydew", "curled leaves", "ants", "sooty mould", "sap sucking"],
+    "sections": [
+      {"heading": "Signs", "body": "Tiny insects clustered on shoots and under leaves, curled sticky leaves and ants."},
+      {"heading": "What to do", "body": "Knock off with water, squash colonies, use soap-water spray, and protect ladybirds."}
+    ]
+  },
+  {
+    "id": "rice_stem_borer",
+    "title": "Rice Stem Borer",
+    "category": "pest",
+    "crop": "rice",
+    "summary": "Larvae bore into rice stems causing dead hearts in young plants and white heads (empty panicles) later.",
+    "symptoms": [
+      "Dead heart: central shoot dries and pulls out easily in the tillering stage",
+      "White head: panicle turns white and empty and pulls out easily",
+      "Small holes at the base of the stem with frass"
+    ],
+    "causes": [
+      "Moths lay egg masses on leaves; larvae bore into the stem",
+      "Stubble and straw left in the field between crops"
+    ],
+    "prevention": [
+      "Plough in or remove stubble soon after harvest",
+      "Plant at the same time as neighbours",
+      "Avoid excess nitrogen",
+      "Hand-collect egg masses in the nursery"
+    ],
+    "actions": [
+      "Pull out and destroy dead hearts and white heads",
+      "Cut stubble low at harvest",
+      "Seek advice on approved treatments if more than 5% of tillers are affected"
+    ],
+    "severity": "medium",
+    "keywords": ["rice", "stem borer", "dead heart", "white head", "empty panicle", "rice pest", "borer"],
+    "sections": [
+      {"heading": "Signs", "body": "Dead central shoot in young plants and white empty panicles later, both pulling out easily."},
+      {"heading": "What to do", "body": "Destroy affected tillers, clear stubble after harvest and seek advice if damage exceeds 5% of tillers."}
+    ]
+  },
+  {
+    "id": "brown_planthopper",
+    "title": "Brown Planthopper",
+    "category": "pest",
+    "crop": "rice",
+    "summary": "Small brown hoppers at the base of rice plants suck sap and cause circular patches of dried, burnt-looking plants (hopperburn).",
+    "symptoms": [
+      "Small brown insects at the base of the stems, jumping when disturbed",
+      "Plants yellow then dry out in circular patches",
+      "Sooty mould on lower leaves"
+    ],
+    "causes": [
+      "High nitrogen and dense planting",
+      "Continuous flooding and no natural enemies after insecticide use",
+      "Warm humid weather"
+    ],
+    "prevention": [
+      "Use resistant varieties",
+      "Reduce nitrogen and plant at wider spacing",
+      "Drain the field for 3–4 days to disturb the hoppers",
+      "Protect spiders and other natural enemies"
+    ],
+    "actions": [
+      "Drain the field temporarily",
+      "Avoid broad-spectrum insecticides that trigger outbreaks",
+      "Seek advice quickly if hopperburn patches appear"
+    ],
+    "severity": "high",
+    "keywords": ["planthopper", "brown planthopper", "hopperburn", "rice pest", "dry patches", "hoppers", "bph"],
+    "sections": [
+      {"heading": "Signs", "body": "Brown hoppers at the stem base and circular patches of dried, burnt-looking rice."},
+      {"heading": "What to do", "body": "Drain the field briefly, reduce nitrogen, protect natural enemies and seek advice quickly."}
+    ]
+  },
+  {
+    "id": "whitefly",
+    "title": "Whitefly",
+    "category": "pest",
+    "crop": "tomato",
+    "summary": "Tiny white flies under tomato and chili leaves that fly up in clouds when disturbed; they weaken plants and spread leaf-curl virus.",
+    "symptoms": [
+      "Clouds of tiny white insects rising when leaves are shaken",
+      "Yellowing, curling leaves and sticky honeydew",
+      "Stunted plants with curled, yellow-edged young leaves (virus)"
+    ],
+    "causes": [
+      "Warm dry weather and nearby infested crops or weeds",
+      "Seedlings already infested in the nursery"
+    ],
+    "prevention": [
+      "Cover nursery beds with fine net",
+      "Remove weeds and old crops around the field",
+      "Use yellow sticky traps to monitor and reduce numbers"
+    ],
+    "actions": [
+      "Remove and destroy virus-affected plants early",
+      "Spray soap-water on the undersides of leaves in the early morning",
+      "Seek advice on approved treatments if numbers keep rising"
+    ],
+    "severity": "medium",
+    "keywords": ["whitefly", "white flies", "tiny white insects", "leaf curl", "virus", "tomato pest", "chili pest", "honeydew"],
+    "sections": [
+      {"heading": "Signs", "body": "Tiny white insects flying up from under leaves; leaves curl and yellow."},
+      {"heading": "What to do", "body": "Remove virus-affected plants, use sticky traps, spray soap-water under leaves and seek advice if numbers rise."}
+    ]
+  },
+  {
+    "id": "tomato_fruit_borer",
+    "title": "Tomato Fruit Borer",
+    "category": "pest",
+    "crop": "tomato",
+    "summary": "A caterpillar that bores holes into tomato and chili fruit, leaving them rotten inside.",
+    "symptoms": [
+      "Round holes in fruit, often with the caterpillar's rear end sticking out",
+      "Fruit rots around the hole",
+      "Chewed flowers and buds"
+    ],
+    "causes": [
+      "Moths lay eggs on flowers and young fruit",
+      "Warm weather and continuous host crops"
+    ],
+    "prevention": [
+      "Hand-pick caterpillars and eggs on flowers",
+      "Remove and destroy damaged fruit promptly",
+      "Encourage birds and wasps"
+    ],
+    "actions": [
+      "Collect and bury damaged fruit twice a week",
+      "Hand-pick caterpillars in the evening",
+      "Seek advice on approved biological sprays (e.g. Bt) if damage is high"
+    ],
+    "severity": "medium",
+    "keywords": ["fruit borer", "borer", "holes in fruit", "caterpillar", "tomato pest", "chili pest", "rotten fruit", "helicoverpa"],
+    "sections": [
+      {"heading": "Signs", "body": "Round holes in fruit with rot inside; chewed flowers."},
+      {"heading": "What to do", "body": "Remove damaged fruit, hand-pick caterpillars in the evening and seek advice on biological sprays if needed."}
+    ]
+  },
+  {
+    "id": "weevils_storage",
+    "title": "Maize Weevils in Storage",
+    "category": "pest",
+    "crop": "maize",
+    "summary": "Small beetles that bore into stored maize grain, turning it to powder within months if not controlled.",
+    "symptoms": [
+      "Small round holes in kernels",
+      "Flour-like dust in stored grain",
+      "Small brown beetles with a long snout walking on the grain"
+    ],
+    "causes": [
+      "Grain stored before it is fully dry",
+      "Open bags or baskets that let beetles in",
+      "Old infested grain kept near new harvest"
+    ],
+    "prevention": [
+      "Dry grain until a kernel cracks when bitten (about 13% moisture)",
+      "Store in sealed drums, jerry cans or hermetic bags",
+      "Clean the store and remove old grain before the new harvest"
+    ],
+    "actions": [
+      "Sun-dry infested grain for 2–3 days and sieve out the beetles",
+      "Move clean grain to a sealed container immediately",
+      "Do not use chemicals not approved for food storage"
+    ],
+    "severity": "medium",
+    "keywords": ["weevil", "weevils", "storage", "stored grain", "beetle", "holes in kernels", "drum", "post-harvest", "maize storage"],
+    "sections": [
+      {"heading": "Signs", "body": "Round holes in kernels, floury dust and small snouted beetles in stored maize."},
+      {"heading": "What to do", "body": "Dry grain fully, sieve out beetles, and store in sealed drums or hermetic bags."}
+    ]
+  }
+]

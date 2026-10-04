@@ -1,0 +1,112 @@
+[
+  {
+    "id": "tip_field_walk",
+    "title": "The Twice-a-Week Field Walk",
+    "category": "tip",
+    "crop": "general",
+    "summary": "Most problems are cheap to fix when found early; a regular walk with a look under the leaves is the best crop insurance.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Walk a zig-zag path through the field, not just the edge",
+      "Check 10 plants in 5 places; look under leaves and into the whorl",
+      "Scan anything unusual with Lafaek and note it in Farm Activity",
+      "Act when 1 in 10 plants shows a problem, not when the whole field does"
+    ],
+    "severity": "none",
+    "keywords": ["monitoring", "scouting", "inspection", "field walk", "check plants", "early detection", "tip"],
+    "sections": [
+      {"heading": "How", "body": "Zig-zag through the field twice a week, check 10 plants in 5 spots, look under leaves."}
+    ]
+  },
+  {
+    "id": "tip_records",
+    "title": "Keep Simple Farm Records",
+    "category": "tip",
+    "crop": "general",
+    "summary": "Writing down what you planted, when, and what happened turns each season into a lesson for the next.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Log planting dates, inputs, problems and harvest amounts in My Farm",
+      "Note which bed grew which crop for rotation",
+      "Compare yields between seasons to see what worked",
+      "Photos of problems help when asking for advice"
+    ],
+    "severity": "none",
+    "keywords": ["records", "record keeping", "log", "diary", "notes", "yield", "planning", "tip"],
+    "sections": [
+      {"heading": "What to record", "body": "Dates, inputs, problems, harvest. The Farm Activity log in this app is designed for it."}
+    ]
+  },
+  {
+    "id": "tip_safe_pesticide",
+    "title": "Safe Use of Any Pesticide",
+    "category": "tip",
+    "crop": "general",
+    "summary": "Pesticides are a last resort; if you use one, follow the label, protect yourself and respect the harvest interval.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Try cultural and biological controls first (hand-picking, soap spray, crop rotation)",
+      "Only use products registered for the crop and pest, at the rate on the label — never more",
+      "Wear long sleeves, trousers, gloves and cover your mouth and nose; wash afterwards",
+      "Spray in the early morning or late afternoon, never in wind",
+      "Do not harvest before the waiting period on the label",
+      "Keep products locked away from children and food; never reuse containers"
+    ],
+    "severity": "none",
+    "keywords": ["pesticide", "spray", "chemical", "safety", "insecticide", "fungicide", "label", "protective", "poison", "harvest interval"],
+    "sections": [
+      {"heading": "Before", "body": "Try non-chemical options first. Use only registered products at label rates."},
+      {"heading": "During and after", "body": "Protect skin and breathing, spray in calm cool hours, respect the waiting period before harvest."}
+    ]
+  },
+  {
+    "id": "tip_weeding",
+    "title": "Weeding Early Pays",
+    "category": "tip",
+    "crop": "general",
+    "summary": "Weeds in the first 3–5 weeks steal the most yield; two early weedings beat many late ones.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Weed maize at 2 and 5 weeks after emergence",
+      "Weed when weeds are small and the soil is moist",
+      "Mulch after the second weeding to keep new weeds down",
+      "Leave pulled weeds to dry on the surface as mulch, unless they have seeds"
+    ],
+    "severity": "none",
+    "keywords": ["weed", "weeding", "weeds", "competition", "hoe", "mulch", "tip"],
+    "sections": [
+      {"heading": "When", "body": "Two early weedings (weeks 2 and 5 for maize) protect most of the yield."}
+    ]
+  },
+  {
+    "id": "tip_harvest_storage",
+    "title": "Harvest and Store Well",
+    "category": "tip",
+    "crop": "general",
+    "summary": "Losses after harvest can be as big as losses in the field; dry fully and store sealed.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Harvest grain when fully mature and dry weather is forecast",
+      "Dry on raised racks or clean tarpaulins, not on bare ground",
+      "Test dryness: a maize kernel should crack, not dent, when bitten",
+      "Store in sealed drums, jerry cans or hermetic bags in a cool dry place",
+      "Check stored grain monthly"
+    ],
+    "severity": "none",
+    "keywords": ["harvest", "storage", "post-harvest", "drying", "drum", "hermetic", "grain storage", "losses", "tip"],
+    "sections": [
+      {"heading": "Drying", "body": "Dry on racks or tarpaulins until a kernel cracks when bitten."},
+      {"heading": "Storing", "body": "Sealed drums or hermetic bags, cool and dry, checked monthly."}
+    ]
+  }
+]

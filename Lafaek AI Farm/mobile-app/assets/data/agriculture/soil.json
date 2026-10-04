@@ -1,0 +1,116 @@
+[
+  {
+    "id": "soil_compost",
+    "title": "Making and Using Compost",
+    "category": "soil",
+    "crop": "general",
+    "summary": "Compost turns farm and kitchen waste into a free fertiliser that feeds crops, holds water and improves soil structure.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Mix green material (fresh leaves, weeds, manure, kitchen scraps) with brown material (dry leaves, straw, maize stalks) at about 1:2",
+      "Build a heap at least 1 m wide and 1 m high, in the shade",
+      "Keep it as moist as a wrung-out cloth; cover with leaves or a sack",
+      "Turn the heap every 2 weeks; it is ready in 6–8 weeks when dark and crumbly",
+      "Apply 2–3 handfuls per planting hole or spread 2–5 cm over beds before planting"
+    ],
+    "severity": "none",
+    "keywords": ["compost", "composting", "organic", "manure", "fertilizer", "fertiliser", "soil health", "improve soil", "soil fertility", "heap"],
+    "sections": [
+      {"heading": "Ingredients", "body": "Green material (fresh leaves, manure, kitchen scraps) plus brown material (dry leaves, straw). Avoid meat and diseased plants."},
+      {"heading": "Method", "body": "Layer green and brown, keep moist and turn every 2 weeks. Ready in 6–8 weeks when dark, crumbly and smelling of earth."},
+      {"heading": "Using it", "body": "Add 2–3 handfuls per planting hole, or spread over beds before planting. Use compost tea as a liquid feed."}
+    ]
+  },
+  {
+    "id": "soil_mulching",
+    "title": "Mulching",
+    "category": "soil",
+    "crop": "general",
+    "summary": "A layer of dry grass, leaves or straw on the soil keeps moisture in, weeds down and protects leaves from soil splash.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Spread 5–10 cm of dry grass, straw or leaves around plants after they are established",
+      "Keep mulch a few cm away from the stem to avoid rot",
+      "Top up as the mulch breaks down",
+      "In very wet weather pull mulch back slightly so the soil does not stay waterlogged"
+    ],
+    "severity": "none",
+    "keywords": ["mulch", "mulching", "moisture", "weeds", "dry season", "soil cover", "straw", "grass"],
+    "sections": [
+      {"heading": "Why mulch", "body": "Mulch cuts water loss by up to half, stops most weeds, keeps soil cool and prevents rain splashing disease onto lower leaves."},
+      {"heading": "How", "body": "Spread 5–10 cm of dry organic material around established plants, keeping it off the stems. Top up through the season."}
+    ]
+  },
+  {
+    "id": "soil_rotation",
+    "title": "Crop Rotation",
+    "category": "soil",
+
+    "crop": "general",
+    "summary": "Changing the crop family in each bed every season breaks pest and disease cycles and balances soil nutrients.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Follow a heavy feeder (maize, tomato) with a legume (beans, cowpea, peanut)",
+      "Never plant tomato, chili, potato or eggplant in the same bed two seasons in a row",
+      "Keep a simple record of what was planted where",
+      "A 3-year cycle is ideal: maize → beans → vegetables"
+    ],
+    "severity": "none",
+    "keywords": ["rotation", "crop rotation", "legume", "beans after maize", "same bed", "pest cycle", "soil fertility", "planning"],
+    "sections": [
+      {"heading": "The idea", "body": "Pests and diseases build up when the same crop stays in the same soil. Rotating starves them and legumes add nitrogen for the next crop."},
+      {"heading": "Simple plan", "body": "Maize → beans → vegetables → maize. Keep tomato, chili and potato apart because they share diseases."}
+    ]
+  },
+  {
+    "id": "soil_erosion",
+    "title": "Protecting Sloping Land",
+    "category": "soil",
+    "crop": "general",
+    "summary": "Much of Timor-Leste's farmland is on slopes; simple contour measures stop topsoil washing away in the wet season.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Plant rows along the contour, not up and down the slope",
+      "Build contour lines of stones, vetiver grass or leucaena every 5–10 m of slope",
+      "Keep soil covered with mulch or a cover crop in the rains",
+      "Do not burn crop residue; leave it on the surface"
+    ],
+    "severity": "none",
+    "keywords": ["erosion", "slope", "hillside", "contour", "terrace", "vetiver", "topsoil", "runoff", "rain damage"],
+    "sections": [
+      {"heading": "Why it matters", "body": "Heavy rain on bare sloping soil removes the most fertile layer first. Yields drop year after year."},
+      {"heading": "What to do", "body": "Contour planting, grass strips or stone lines across the slope, and permanent soil cover."}
+    ]
+  },
+  {
+    "id": "soil_testing",
+    "title": "Reading Your Soil",
+    "category": "soil",
+    "crop": "general",
+    "summary": "Simple field tests tell you if soil is sandy, clay or loam and whether it drains well, guiding watering and compost use.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Ribbon test: moisten soil and press between thumb and finger — no ribbon = sandy, long ribbon = clay, short ribbon = loam",
+      "Drainage test: dig a 30 cm hole, fill with water; if it takes over 4 hours to drain the soil is heavy",
+      "Sandy soil: add compost and mulch, water more often",
+      "Clay soil: add compost, raise beds, avoid working it wet",
+      "Ask your extension office about a pH test if crops grow poorly despite good care"
+    ],
+    "severity": "none",
+    "keywords": ["soil test", "soil type", "sandy", "clay", "loam", "drainage", "ph", "acid", "ribbon test"],
+    "sections": [
+      {"heading": "Ribbon test", "body": "Moist soil pressed between the fingers: sandy makes no ribbon, clay makes a long one, loam a short one."},
+      {"heading": "What to do next", "body": "Sandy: more compost and mulch. Clay: compost and raised beds. Poor growth despite care: ask about a pH test."}
+    ]
+  }
+]

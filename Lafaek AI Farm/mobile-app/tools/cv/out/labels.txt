@@ -1,0 +1,14 @@
+maize_healthy
+maize_leaf_blight
+maize_leaf_rust
+maize_leaf_spot
+other
+papaya_healthy
+papaya_leaf_disease
+papaya_pest
+rice_bacterial_blight
+rice_blast
+rice_brown_spot
+rice_healthy
+tomato_healthy
+tomato_leaf_problem

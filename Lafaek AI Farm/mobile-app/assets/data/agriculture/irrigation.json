@@ -1,0 +1,93 @@
+[
+  {
+    "id": "water_timing",
+    "title": "When and How Much to Water",
+    "category": "irrigation",
+    "crop": "general",
+    "summary": "Water early in the morning at the base of the plant; deep, less frequent watering builds stronger roots than a daily sprinkle.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Water in the early morning; evening watering keeps leaves wet overnight and invites fungus",
+      "Water the soil, not the leaves",
+      "Push a finger 5 cm into the soil — if it is dry, water",
+      "Vegetables need about 25–40 mm per week (roughly 3–4 watering cans per square metre), more in hot windy weather",
+      "Mulch to cut water loss"
+    ],
+    "severity": "none",
+    "keywords": ["water", "watering", "irrigation", "how much water", "when to water", "dry", "wilting", "morning", "tomato water", "vegetables water"],
+    "sections": [
+      {"heading": "Timing", "body": "Early morning is best. Avoid wetting leaves, especially in the evening."},
+      {"heading": "Amount", "body": "About 25–40 mm per week for vegetables. Check with a finger; water deeply rather than a little every day."}
+    ]
+  },
+  {
+    "id": "water_dry_season",
+    "title": "Farming in the Dry Season",
+    "category": "irrigation",
+    "crop": "general",
+    "summary": "With mulch, shade and small-plot irrigation, vegetables can be grown through the dry season near a water source.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Choose plots close to a spring, well or river",
+      "Grow high-value vegetables (tomato, chili, leafy greens) on small, intensively managed beds",
+      "Mulch heavily and shade seedlings for the first weeks",
+      "Use drip lines, perforated bottles or clay pots next to plants to deliver water slowly",
+      "Harvest rainwater from roofs into drums during the last rains"
+    ],
+    "severity": "none",
+    "keywords": ["dry season", "drought", "no rain", "water shortage", "drip", "shade", "rainwater", "well", "spring"],
+    "sections": [
+      {"heading": "Where", "body": "Small plots near a reliable water source give the best return in the dry season."},
+      {"heading": "How", "body": "Mulch, shade, and slow watering with drip lines or buried pots. Store rainwater from the last rains."}
+    ]
+  },
+  {
+    "id": "water_drainage",
+    "title": "Drainage in the Wet Season",
+    "category": "irrigation",
+    "crop": "general",
+    "summary": "Too much water kills roots and spreads disease; raised beds and drains protect crops in heavy rain.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Make raised beds 20–30 cm high for vegetables in the rains",
+      "Dig shallow drains along the contour to carry excess water away",
+      "Avoid walking on wet beds; compaction blocks drainage",
+      "Remove standing water within a day after heavy rain"
+    ],
+    "severity": "none",
+    "keywords": ["drainage", "waterlogging", "flooding", "heavy rain", "raised beds", "drain", "wet season", "root rot"],
+    "sections": [
+      {"heading": "Why", "body": "Waterlogged roots cannot breathe and fungal diseases spread fast in standing water."},
+      {"heading": "How", "body": "Raised beds, contour drains and no walking on wet soil."}
+    ]
+  },
+  {
+    "id": "water_rice",
+    "title": "Water Management for Rice",
+    "category": "irrigation",
+    "crop": "rice",
+    "summary": "Rice needs even, shallow water during growth and controlled drying at key stages; level fields make this possible.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Level the field well before transplanting",
+      "Keep 2–3 cm of water for the first week after transplanting, then 3–5 cm",
+      "Drain for 3–5 days at maximum tillering to strengthen roots and reduce pests",
+      "Keep water during flowering — drought now causes empty grains",
+      "Drain fully 1–2 weeks before harvest"
+    ],
+    "severity": "none",
+    "keywords": ["rice water", "paddy water", "flooding rice", "drain rice", "tillering", "water depth", "alternate wetting drying", "awd"],
+    "sections": [
+      {"heading": "Depth", "body": "2–3 cm after transplanting, 3–5 cm during tillering. Never let the field dry during flowering."},
+      {"heading": "Drying", "body": "Drain briefly at maximum tillering and fully 1–2 weeks before harvest."}
+    ]
+  }
+]

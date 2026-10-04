@@ -1,0 +1,92 @@
+[
+  {
+    "id": "planting_calendar_tl",
+    "title": "Planting Calendar for Timor-Leste",
+    "category": "planting",
+    "crop": "general",
+    "summary": "The wet season (November–April) drives the main planting; dry-season crops depend on irrigation.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Maize, beans, cassava and sweet potato: plant at the start of the rains, November–December (later in the south coast)",
+      "Rice: nursery in November–December, transplant December–January; a second crop is possible in irrigated areas around May",
+      "Tomato and chili: best in the dry season (May–September) with irrigation, or under rain shelter",
+      "Leafy vegetables: year round near water",
+      "Watch the first rains: plant after 2–3 good rains have soaked the soil, not after the first shower"
+    ],
+    "severity": "none",
+    "keywords": ["when to plant", "planting time", "planting calendar", "season", "wet season", "dry season", "november", "december", "best time", "plant rice", "plant maize", "plant tomato"],
+    "sections": [
+      {"heading": "Wet season (Nov–Apr)", "body": "Maize, beans, cassava, sweet potato and rice. Plant after the soil is properly wet."},
+      {"heading": "Dry season (May–Oct)", "body": "Tomato, chili and vegetables on irrigated plots. Second rice crop where irrigation allows."}
+    ]
+  },
+  {
+    "id": "planting_seed_selection",
+    "title": "Choosing and Saving Seed",
+    "category": "planting",
+    "crop": "general",
+    "summary": "Good seed is the cheapest yield increase: select from the best plants, dry well and store sealed.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Mark the healthiest, most productive plants in the field before harvest and keep their seed",
+      "Dry seed in the shade until hard, then store in a sealed container with a little ash or dry sand",
+      "Test germination: plant 20 seeds in moist sand; if fewer than 16 sprout, use more seed per hole or get new seed",
+      "Buy improved seed (e.g. Sele maize, Nakroma rice) from trusted sources every few seasons"
+    ],
+    "severity": "none",
+    "keywords": ["seed", "seeds", "saving seed", "germination", "improved seed", "variety", "sele", "nakroma", "seed storage"],
+    "sections": [
+      {"heading": "Selecting", "body": "Choose seed from the best plants in the field, not from the pile after harvest."},
+      {"heading": "Storing and testing", "body": "Dry fully, store sealed, and test germination before planting."}
+    ]
+  },
+  {
+    "id": "planting_spacing",
+    "title": "Spacing and Depth",
+    "category": "planting",
+    "crop": "general",
+    "summary": "Correct spacing gives each plant light, air and nutrients; too dense means disease and small yields.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Maize: rows 75 cm, plants 25 cm, 1 plant per hole, 3–5 cm deep",
+      "Beans: rows 50 cm, plants 30 cm, 2 seeds per hole",
+      "Rice: 20 × 20 cm, 2–3 seedlings per hill, shallow",
+      "Tomato: rows 70–100 cm, plants 50 cm",
+      "Chili: 40–50 cm each way on raised beds",
+      "Plant seed at a depth about 2–3 times its size"
+    ],
+    "severity": "none",
+    "keywords": ["spacing", "plant spacing", "depth", "how far apart", "rows", "seeds per hole", "density"],
+    "sections": [
+      {"heading": "Rule of thumb", "body": "Plant seeds 2–3 times their size deep. Space so leaves of neighbouring plants just touch at maturity."}
+    ]
+  },
+  {
+    "id": "planting_intercropping",
+    "title": "Intercropping Maize and Beans",
+    "category": "planting",
+    "crop": "maize",
+    "summary": "Growing beans between maize rows gives two harvests, adds nitrogen and confuses pests.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Plant maize first; plant beans between rows 1–2 weeks later so the maize is not shaded",
+      "Use climbing beans on the maize stalks or bush beans between rows",
+      "Harvest beans first, leaving the roots in the soil",
+      "Add pumpkin or sweet potato as a ground cover for a three-crop system"
+    ],
+    "severity": "none",
+    "keywords": ["intercrop", "intercropping", "maize and beans", "mixed cropping", "companion", "three sisters", "pumpkin"],
+    "sections": [
+      {"heading": "Why", "body": "More food from the same land, less risk if one crop fails, and free nitrogen from the beans."},
+      {"heading": "How", "body": "Plant beans 1–2 weeks after maize, between the rows. Leave bean roots in the soil after harvest."}
+    ]
+  }
+]

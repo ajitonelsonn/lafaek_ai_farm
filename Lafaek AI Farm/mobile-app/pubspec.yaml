@@ -1,0 +1,64 @@
+name: lafaek_ai_farm
+description: "Lafaek AI Farm — an AI farming companion that works anywhere."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  connectivity_plus: ^6.1.0
+  drift: ^2.35.0
+  drift_flutter: ^0.3.1
+  path_provider: ^2.1.6
+  path: ^1.9.1
+  device_info_plus: ^13.2.0
+  image: ^4.10.1
+  tflite_flutter: ^0.12.1
+  camera: ^0.12.1
+  llama_cpp_dart: ^0.9.0-dev.12
+  image_picker: ^1.2.3
+  # OpenStreetMap tiles. Weather uses dart:io HttpClient, like the model
+  # downloader, so it needs no package.
+  flutter_map: ^8.3.2
+  latlong2: ^0.10.1
+  geolocator: ^14.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  drift_dev: ^2.35.0
+  build_runner: ^2.16.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    # Asset folders are not recursive, so each one is listed.
+    - assets/images/icons/
+    - assets/images/crops/
+    - assets/images/mascot/
+    - assets/images/scenes/
+    - assets/images/status/
+    - assets/images/farmer/
+    - assets/icons/
+    - assets/illustrations/
+    - assets/data/agriculture/
+    - assets/models/
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700

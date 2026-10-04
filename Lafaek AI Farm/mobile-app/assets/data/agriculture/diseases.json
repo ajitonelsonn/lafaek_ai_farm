@@ -1,0 +1,766 @@
+[
+  {
+    "id": "maize_leaf_blight",
+    "title": "Maize Leaf Blight",
+    "category": "disease",
+    "crop": "maize",
+    "summary": "A fungal disease (Turcicum / Northern leaf blight) that makes long grey-green or tan lesions on maize leaves and spreads in warm, humid weather.",
+    "symptoms": [
+      "Long, elliptical grey-green or tan lesions 3–15 cm long on the leaves",
+      "Lesions usually start on the lower leaves and move up the plant",
+      "Leaves may dry out and die early when many lesions join together",
+      "In humid weather a dark, dusty layer of spores may appear on the lesions"
+    ],
+    "causes": [
+      "Fungus (Exserohilum turcicum) surviving on old maize residue",
+      "Warm temperatures (18–27 °C) with long periods of leaf wetness",
+      "Dense planting and poor air circulation",
+      "Planting maize in the same field year after year"
+    ],
+    "prevention": [
+      "Rotate maize with beans or other non-grass crops",
+      "Remove or bury old maize residue after harvest",
+      "Use recommended spacing so leaves dry quickly",
+      "Choose tolerant varieties where available"
+    ],
+    "actions": [
+      "Remove and destroy heavily affected lower leaves to reduce spread",
+      "Improve air circulation by controlling weeds and avoiding over-crowding",
+      "Avoid overhead watering late in the day",
+      "Ask your local extension officer about locally approved fungicide options if the disease appears before tasselling",
+      "Monitor other plants every few days for 2 weeks"
+    ],
+    "severity": "medium",
+    "keywords": [
+      "maize",
+      "corn",
+      "leaf blight",
+      "blight",
+      "turcicum",
+      "northern leaf blight",
+      "lesion",
+      "grey lesions",
+      "tan lesions",
+      "fungal",
+      "fungus",
+      "leaf spots",
+      "long spots"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Long, elliptical grey-green or tan lesions on leaves, starting on lower leaves. Lesions can join and dry the whole leaf."
+      },
+      {
+        "heading": "Why it happens",
+        "body": "A fungal disease favoured by warm, humid conditions, dense planting and maize residue left in the field."
+      },
+      {
+        "heading": "What to do",
+        "body": "Remove heavily affected leaves, improve air circulation, rotate crops, and ask your extension officer about locally approved treatments."
+      }
+    ]
+  },
+  {
+    "id": "maize_leaf_rust",
+    "title": "Maize Leaf Rust",
+    "category": "disease",
+    "crop": "maize",
+    "summary": "Small orange-brown powdery pustules scattered over both leaf surfaces; usually minor but can reduce yield when severe.",
+    "symptoms": [
+      "Small round to oval orange-brown pustules on both sides of the leaf",
+      "Pustules rub off as an orange powder on your fingers",
+      "Pustules darken to black late in the season",
+      "Heavily infected leaves turn yellow and dry"
+    ],
+    "causes": [
+      "Rust fungus (Puccinia species) spread by wind-borne spores",
+      "Cool to mild temperatures with high humidity and dew",
+      "Late-planted or stressed maize is more affected"
+    ],
+    "prevention": [
+      "Plant early in the season so the crop matures before rust builds up",
+      "Use tolerant varieties where available",
+      "Keep plants well nourished; stressed plants suffer more"
+    ],
+    "actions": [
+      "Usually no treatment is needed if only a few pustules appear after tasselling",
+      "If rust is heavy on young plants, ask your extension officer about options",
+      "Remove badly affected leaves and keep the field weed-free",
+      "Note the date; plant earlier next season"
+    ],
+    "severity": "low",
+    "keywords": [
+      "maize",
+      "corn",
+      "rust",
+      "leaf rust",
+      "orange spots",
+      "orange powder",
+      "pustules",
+      "brown dots",
+      "fungus"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Small orange-brown pustules on both leaf surfaces that rub off as powder."
+      },
+      {
+        "heading": "What to do",
+        "body": "Mild rust after tasselling rarely needs treatment. Plant earlier and keep plants healthy. Seek advice if young plants are heavily affected."
+      }
+    ]
+  },
+  {
+    "id": "maize_leaf_spot",
+    "title": "Maize Gray Leaf Spot",
+    "category": "disease",
+    "crop": "maize",
+    "summary": "Narrow, rectangular grey-tan spots that run between the leaf veins; builds up late in the season in humid weather and where maize follows maize.",
+    "symptoms": [
+      "Small tan spots that lengthen into narrow rectangles bounded by the leaf veins",
+      "Spots turn grey and can join into large dead strips",
+      "Starts on lower leaves 2–3 weeks after silking and moves up",
+      "Distinct from leaf blight: blight lesions are wider, oval and cross the veins"
+    ],
+    "causes": [
+      "Fungus (Cercospora zeae-maydis) surviving on maize residue on the soil surface",
+      "Long periods of high humidity and leaf wetness (fog, dew, light rain)",
+      "Maize planted into last season's maize stubble without rotation"
+    ],
+    "prevention": [
+      "Rotate maize with beans or other non-grass crops for at least one season",
+      "Bury or remove maize residue after harvest",
+      "Use tolerant varieties where available and avoid very dense planting"
+    ],
+    "actions": [
+      "Confirm by looking for rectangular spots bounded by the veins",
+      "Remove heavily affected lower leaves if the crop is still young",
+      "Plan a rotation to beans in this field next season",
+      "Ask your extension officer about approved fungicide options if spots appear before silking",
+      "Monitor weekly; damage after grain fill is usually minor"
+    ],
+    "severity": "medium",
+    "keywords": [
+      "maize",
+      "corn",
+      "gray leaf spot",
+      "grey leaf spot",
+      "leaf spot",
+      "cercospora",
+      "rectangular spots",
+      "tan spots",
+      "grey spots",
+      "fungus",
+      "spots between veins"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Narrow rectangular grey-tan spots that stay between the leaf veins, starting on lower leaves late in the season."
+      },
+      {
+        "heading": "Why it happens",
+        "body": "A fungus that survives on maize residue and spreads in long humid periods; worst when maize follows maize."
+      },
+      {
+        "heading": "What to do",
+        "body": "Remove affected lower leaves on young crops, rotate to beans next season, and seek advice if it appears before silking."
+      }
+    ]
+  },
+  {
+    "id": "maize_nutrient_stress",
+    "title": "Maize Nutrient Stress (Yellowing)",
+    "category": "disease",
+    "crop": "maize",
+    "summary": "Yellow or purple leaves without spots usually mean the plant is short of nutrients or water rather than diseased.",
+    "symptoms": [
+      "Yellowing that starts at the tip of older, lower leaves and runs down the midrib in a V shape (nitrogen)",
+      "Purple or reddish leaves on young plants (phosphorus, often in cold or wet soil)",
+      "Yellow edges on older leaves while the middle stays green (potassium)",
+      "Pale stripes between the veins of young leaves (zinc or iron)",
+      "No spots, lesions or holes"
+    ],
+    "causes": [
+      "Low soil fertility or continuous cropping without compost or fertiliser",
+      "Waterlogging or drought stopping the roots from taking up nutrients",
+      "Very acidic or very alkaline soil"
+    ],
+    "prevention": [
+      "Add compost or manure before planting every season",
+      "Rotate or intercrop with legumes (beans) to add nitrogen",
+      "Improve drainage on wet fields and mulch on dry fields"
+    ],
+    "actions": [
+      "Check soil moisture first — water stress causes similar yellowing",
+      "Top-dress with compost, manure tea or a nitrogen fertiliser at the recommended rate",
+      "Apply near the plant row and water in",
+      "If leaves are purple on young plants, wait for warmer weather and improve drainage",
+      "Ask your extension officer about a soil test if the problem repeats"
+    ],
+    "severity": "low",
+    "keywords": [
+      "maize",
+      "corn",
+      "yellow",
+      "yellowing",
+      "yellow leaves",
+      "pale",
+      "purple leaves",
+      "nitrogen",
+      "deficiency",
+      "nutrient",
+      "fertilizer",
+      "fertiliser",
+      "stunted",
+      "poor growth"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Yellowing of older leaves from the tip in a V shape usually means nitrogen shortage. Purple young leaves point to phosphorus. There are no spots or lesions."
+      },
+      {
+        "heading": "What to do",
+        "body": "Check water first, then top-dress with compost or nitrogen. Plant beans in rotation to build soil fertility."
+      }
+    ]
+  },
+  {
+    "id": "rice_blast",
+    "title": "Rice Blast",
+    "category": "disease",
+    "crop": "rice",
+    "summary": "The most damaging rice disease: diamond-shaped spots with grey centres on leaves, and rotting at the neck of the panicle.",
+    "symptoms": [
+      "Diamond- or spindle-shaped spots with grey-white centres and brown edges on leaves",
+      "Spots join and kill large parts of the leaf",
+      "Brown-black rot at the neck of the panicle causing empty, white heads",
+      "Seedlings in the nursery may die"
+    ],
+    "causes": [
+      "Fungus (Magnaporthe oryzae) spread by wind and water splash",
+      "Long periods of leaf wetness, cool nights and cloudy days",
+      "Too much nitrogen fertiliser",
+      "Drought stress in rain-fed fields"
+    ],
+    "prevention": [
+      "Use resistant varieties recommended locally",
+      "Do not apply excessive nitrogen; split the dose",
+      "Keep the field flooded evenly during tillering",
+      "Burn or bury infected straw after harvest"
+    ],
+    "actions": [
+      "Stop nitrogen top-dressing when blast appears",
+      "Keep water in the field; drought makes blast worse",
+      "Remove severely infected seedlings in the nursery",
+      "Ask your extension officer about approved fungicide treatment if the disease reaches the neck stage"
+    ],
+    "severity": "high",
+    "keywords": [
+      "rice",
+      "blast",
+      "rice blast",
+      "diamond spots",
+      "grey spots",
+      "neck rot",
+      "empty panicle",
+      "white head",
+      "fungus"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Diamond-shaped leaf spots with grey centres and brown borders; neck rot causing empty panicles."
+      },
+      {
+        "heading": "What to do",
+        "body": "Stop extra nitrogen, keep the field flooded, remove infected seedlings and seek advice before the panicle stage."
+      }
+    ]
+  },
+  {
+    "id": "rice_bacterial_leaf_blight",
+    "title": "Rice Bacterial Leaf Blight",
+    "category": "disease",
+    "crop": "rice",
+    "summary": "Water-soaked stripes along the leaf edges that turn yellow then white, spreading fast after heavy rain and wind.",
+    "symptoms": [
+      "Water-soaked, yellow to white stripes starting at the leaf tips and edges",
+      "Stripes have wavy margins and spread downward",
+      "Whole leaves dry out; seedlings wilt (kresek)",
+      "Milky bacterial ooze on cut leaves in the morning"
+    ],
+    "causes": [
+      "Bacteria (Xanthomonas oryzae) entering through wounds and leaf pores",
+      "Heavy rain, strong wind and flooding that spread the bacteria",
+      "High nitrogen and dense planting"
+    ],
+    "prevention": [
+      "Use resistant varieties and clean seed",
+      "Avoid excess nitrogen",
+      "Do not clip seedling tips at transplanting",
+      "Keep bunds and channels clean of infected straw"
+    ],
+    "actions": [
+      "Drain the field for a few days to slow the spread",
+      "Stop nitrogen fertiliser until the crop recovers",
+      "Remove and burn heavily infected plants",
+      "Do not move through wet, infected fields into healthy ones"
+    ],
+    "severity": "medium",
+    "keywords": [
+      "rice",
+      "bacterial",
+      "leaf blight",
+      "yellow stripes",
+      "white leaf edges",
+      "kresek",
+      "wilt",
+      "bacteria"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Yellow-white stripes from the leaf tip and edges with wavy margins; seedlings can wilt."
+      },
+      {
+        "heading": "What to do",
+        "body": "Drain briefly, stop nitrogen, remove heavily infected plants and avoid spreading through wet fields."
+      }
+    ]
+  },
+  {
+    "id": "rice_brown_spot",
+    "title": "Rice Brown Spot",
+    "category": "disease",
+    "crop": "rice",
+    "summary": "Small oval brown spots with grey centres, usually a sign that the soil is poor or the crop is short of water or potassium.",
+    "symptoms": [
+      "Small oval or circular brown spots, about the size of a sesame seed, scattered over the leaf",
+      "Older spots have a grey or whitish centre with a dark brown edge",
+      "Spots appear on lower leaves first and can cover the whole leaf when severe",
+      "Brown spots may also appear on the grain husks, giving discoloured rice"
+    ],
+    "causes": [
+      "Fungus (Bipolaris oryzae) carried on seed and crop residue",
+      "Poor or unbalanced soil — especially low potassium or silicon",
+      "Water stress in rain-fed fields, or uneven flooding",
+      "Repeated rice cropping without adding organic matter"
+    ],
+    "prevention": [
+      "Use clean, treated seed from a healthy crop",
+      "Add compost or manure before planting to build soil fertility",
+      "Keep water even in the field; avoid drying out during grain filling",
+      "Remove and bury infected straw and stubble after harvest"
+    ],
+    "actions": [
+      "Check whether the field dried out or is short of nutrients — brown spot is usually a soil and water problem, not just a disease",
+      "Apply compost or a balanced fertiliser with potassium at the recommended local rate",
+      "Keep the water level steady, especially from flowering to grain filling",
+      "Remove badly affected lower leaves and keep the bunds weed-free",
+      "Ask your extension officer about seed treatment before the next planting"
+    ],
+    "severity": "medium",
+    "keywords": [
+      "rice",
+      "hare",
+      "brown spot",
+      "brown spots",
+      "sesame",
+      "oval spots",
+      "grey centre",
+      "bipolaris",
+      "helminthosporium",
+      "poor soil",
+      "potassium",
+      "water stress",
+      "discoloured grain"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Small oval brown spots the size of a sesame seed, with grey centres, starting on the lower leaves. Grains may also be discoloured."
+      },
+      {
+        "heading": "Why it happens",
+        "body": "A fungus that thrives when the crop is stressed — poor soil (especially low potassium), uneven water or drought. It was the disease behind the Bengal famine of 1943."
+      },
+      {
+        "heading": "What to do",
+        "body": "Fix the soil and water first: add compost or potassium and keep the water level steady. Use clean seed next season and bury infected straw."
+      }
+    ]
+  },
+  {
+    "id": "tomato_early_blight",
+    "title": "Tomato Early Blight",
+    "category": "disease",
+    "crop": "tomato",
+    "summary": "Brown spots with concentric rings (target spots) on older leaves, common in warm humid weather and on stressed plants.",
+    "symptoms": [
+      "Brown spots with dark concentric rings like a target on older, lower leaves",
+      "Yellow halo around each spot",
+      "Leaves yellow and drop from the bottom of the plant upward",
+      "Dark sunken spots near the stem end of fruit"
+    ],
+    "causes": [
+      "Fungus (Alternaria solani) surviving in soil and plant debris",
+      "Warm temperatures with high humidity or dew",
+      "Soil splashing onto lower leaves during watering or rain",
+      "Plants stressed by poor nutrition or heavy fruit load"
+    ],
+    "prevention": [
+      "Mulch the soil to stop splash",
+      "Stake plants and remove the lowest leaves",
+      "Water at the base in the morning, never on the leaves",
+      "Rotate with maize or beans; do not follow tomato, chili or potato"
+    ],
+    "actions": [
+      "Remove and destroy spotted lower leaves",
+      "Improve airflow by pruning and spacing",
+      "Feed the plant with compost to reduce stress",
+      "Ask your extension officer about approved copper or other fungicide options if spread continues"
+    ],
+    "severity": "medium",
+    "keywords": [
+      "tomato",
+      "early blight",
+      "target spots",
+      "concentric rings",
+      "brown spots",
+      "yellow halo",
+      "alternaria",
+      "fungus",
+      "leaf spots"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Brown target-like spots with rings on older leaves, yellow halo, leaves dropping from the bottom."
+      },
+      {
+        "heading": "What to do",
+        "body": "Remove affected leaves, mulch, water at the base, stake and prune, and seek advice on approved treatments."
+      }
+    ]
+  },
+  {
+    "id": "tomato_late_blight",
+    "title": "Tomato Late Blight",
+    "category": "disease",
+    "crop": "tomato",
+    "summary": "Fast-spreading water-soaked patches that turn brown-black with white mould underneath; can destroy a crop in days during cool wet weather.",
+    "symptoms": [
+      "Large, irregular water-soaked patches on leaves that turn brown-black",
+      "White fuzzy mould on the underside of leaves in the morning",
+      "Brown, greasy patches on stems and fruit",
+      "Whole plant collapses quickly in wet weather"
+    ],
+    "causes": [
+      "Water mould (Phytophthora infestans) spread by wind and rain",
+      "Cool nights (10–20 °C) with high humidity and long leaf wetness",
+      "Nearby infected tomato or potato plants"
+    ],
+    "prevention": [
+      "Grow tomatoes in the drier months or under rain shelter",
+      "Wide spacing, staking and pruning for airflow",
+      "Never water the leaves",
+      "Remove volunteer tomato and potato plants"
+    ],
+    "actions": [
+      "Act fast: remove and bury or burn infected plants immediately",
+      "Do not compost infected material",
+      "Harvest healthy fruit early",
+      "Ask your extension officer urgently about approved protective treatments for the remaining plants"
+    ],
+    "severity": "high",
+    "keywords": [
+      "tomato",
+      "late blight",
+      "phytophthora",
+      "black patches",
+      "white mould",
+      "mold",
+      "plant collapse",
+      "wet weather",
+      "fungus",
+      "potato"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Large dark water-soaked patches with white mould underneath; the plant collapses fast in cool wet weather."
+      },
+      {
+        "heading": "What to do",
+        "body": "Remove infected plants immediately, harvest healthy fruit early and seek urgent advice on protecting the rest."
+      }
+    ]
+  },
+  {
+    "id": "chili_anthracnose",
+    "title": "Chili Anthracnose (Fruit Rot)",
+    "category": "disease",
+    "crop": "chili",
+    "summary": "Sunken, dark circular spots on ripening chili fruit, often with orange or pink spore masses, common in the wet season.",
+    "symptoms": [
+      "Sunken, circular dark spots on fruit that enlarge quickly",
+      "Concentric rings of orange, pink or black spores inside the spot",
+      "Fruit shrivels and drops",
+      "Occasional dark spots on leaves and stems"
+    ],
+    "causes": [
+      "Fungus (Colletotrichum species) carried on seed and in plant debris",
+      "Rain splash and high humidity during fruiting",
+      "Overripe fruit left on the plant"
+    ],
+    "prevention": [
+      "Use clean seed from healthy fruit",
+      "Plant on raised beds with mulch",
+      "Harvest fruit as soon as it ripens",
+      "Rotate with non-solanaceous crops (not tomato, potato, eggplant)"
+    ],
+    "actions": [
+      "Pick and destroy infected fruit; do not leave it on the ground",
+      "Harvest ripe fruit promptly",
+      "Improve drainage and airflow",
+      "Ask your extension officer about approved fungicide options in a wet season"
+    ],
+    "severity": "medium",
+    "keywords": [
+      "chili",
+      "chilli",
+      "anthracnose",
+      "fruit rot",
+      "sunken spots",
+      "black spots on fruit",
+      "orange spores",
+      "fungus"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Sunken dark circular spots on ripening fruit with orange or pink rings of spores."
+      },
+      {
+        "heading": "What to do",
+        "body": "Remove infected fruit, harvest promptly, keep beds well drained and seek advice on approved treatments."
+      }
+    ]
+  },
+  {
+    "id": "bean_rust",
+    "title": "Bean Rust",
+    "category": "disease",
+    "crop": "beans",
+    "summary": "Small reddish-brown pustules on bean leaves that release rusty powder; severe cases drop leaves and cut yield.",
+    "symptoms": [
+      "Small raised reddish-brown pustules on the underside of leaves",
+      "Rusty powder rubs off on fingers",
+      "Yellow halo around pustules; leaves yellow and fall"
+    ],
+    "causes": [
+      "Rust fungus (Uromyces appendiculatus) spread by wind",
+      "Warm humid weather with dew",
+      "Dense planting"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Space plants well and avoid overhead watering",
+      "Remove crop residue after harvest"
+    ],
+    "actions": [
+      "Remove heavily infected leaves early",
+      "Avoid working in the field when leaves are wet",
+      "Seek advice on approved fungicide if rust appears before flowering"
+    ],
+    "severity": "low",
+    "keywords": [
+      "beans",
+      "rust",
+      "bean rust",
+      "brown pustules",
+      "rusty powder",
+      "fungus"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Reddish-brown pustules on the underside of leaves that release rusty powder."
+      },
+      {
+        "heading": "What to do",
+        "body": "Remove infected leaves early, keep leaves dry and seek advice if rust appears before flowering."
+      }
+    ]
+  },
+  {
+    "id": "healthy_crop",
+    "title": "Healthy Crop Care",
+    "category": "disease",
+    "crop": "general",
+    "summary": "What a healthy leaf looks like and how to keep it that way between scans.",
+    "symptoms": [
+      "Uniform green colour without spots, stripes or holes",
+      "Leaves firm and turgid, not wilted",
+      "Steady new growth from the top of the plant"
+    ],
+    "causes": [],
+    "prevention": [
+      "Water consistently and early in the morning",
+      "Mulch to keep moisture even and stop soil splash",
+      "Feed with compost every few weeks",
+      "Walk the field twice a week and look under leaves"
+    ],
+    "actions": [
+      "Keep monitoring; scan again in 7 days or if anything changes",
+      "Maintain your current watering and feeding schedule",
+      "Remove weeds that compete for water and hide pests"
+    ],
+    "severity": "none",
+    "keywords": [
+      "healthy",
+      "normal",
+      "good condition",
+      "no disease",
+      "green leaves",
+      "monitoring",
+      "crop care"
+    ],
+    "sections": [
+      {
+        "heading": "Signs of health",
+        "body": "Uniform green leaves without spots, holes or wilting, and steady new growth."
+      },
+      {
+        "heading": "Keep it that way",
+        "body": "Water in the morning, mulch, feed with compost and inspect the field twice a week."
+      }
+    ]
+  },
+  {
+    "id": "papaya_leaf_disease",
+    "title": "Papaya Leaf Curl, Mosaic and Ring Spot",
+    "category": "disease",
+    "crop": "papaya",
+    "summary": "Virus diseases of papaya that curl, mottle or ring-mark the leaves. They are spread by insects, not by rain, so the cure is controlling the insect and removing sick plants early.",
+    "symptoms": [
+      "Young leaves curl downward and inward, and feel thick or leathery",
+      "Yellow and green mottled patches (mosaic) across the leaf blade",
+      "Pale rings or circles on leaves, and sometimes greasy streaks on the stem",
+      "New leaves come out small and misshapen; the plant stops growing well",
+      "Fruit may show faint rings and taste poor"
+    ],
+    "causes": [
+      "Papaya leaf curl virus, papaya mosaic virus or papaya ring spot virus",
+      "Spread by whitefly and by aphids feeding on the plant",
+      "Spread by cutting tools used on a sick plant and then a healthy one",
+      "Planting new papaya right next to old infected trees"
+    ],
+    "prevention": [
+      "Plant seedlings away from old or sick papaya trees",
+      "Control whitefly and aphids early, before the plant is large",
+      "Pull out and burn badly infected plants instead of leaving them standing",
+      "Keep the area around the trees free of weeds that host whitefly",
+      "Wash hands and tools after touching a sick plant"
+    ],
+    "actions": [
+      "Check the underside of young leaves for whitefly and aphids",
+      "Remove and burn plants whose leaves are badly curled or mottled",
+      "Do not take cuttings or seed from an affected plant",
+      "Watch nearby healthy trees every week for the first signs"
+    ],
+    "severity": "high",
+    "keywords": [
+      "papaya",
+      "pawpaw",
+      "leaf curl",
+      "mosaic",
+      "ring spot",
+      "virus",
+      "whitefly"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "Leaves curl down and thicken, or show yellow-green mottling, or pale rings. New growth is small and twisted and the plant slows down."
+      },
+      {
+        "heading": "Why it happens",
+        "body": "These are viruses carried by whitefly and aphids, and by tools. Once a plant has a virus it cannot be cured, so the work is protecting the healthy trees."
+      },
+      {
+        "heading": "What to do",
+        "body": "Look under the young leaves for insects and control them. Take out badly affected plants and burn them. Do not save seed or cuttings from sick trees."
+      },
+      {
+        "heading": "When to ask for help",
+        "body": "If several trees show signs in one season, ask an agricultural extension officer before replanting papaya in the same spot."
+      }
+    ]
+  },
+  {
+    "id": "papaya_pest",
+    "title": "Papaya Mealybug and Mite Damage",
+    "category": "pest",
+    "crop": "papaya",
+    "summary": "Small insects and mites that feed on papaya leaves. Unlike a virus you can usually see the pest itself, and simple physical control often works if you start early.",
+    "symptoms": [
+      "White cottony clusters on leaf undersides, leaf joints and young fruit",
+      "Sticky honeydew on leaves, followed by a black sooty mould",
+      "Fine pale speckling or bronzing of the leaf, with a dusty look underneath",
+      "Leaves dry at the edges and fall early",
+      "Ants moving up and down the stem"
+    ],
+    "causes": [
+      "Papaya mealybug feeding on sap and excreting honeydew",
+      "Red or yellow spider mites, which build up in hot dry weather",
+      "Ants protecting mealybugs from their natural enemies",
+      "Dusty, drought-stressed plants, which mites prefer"
+    ],
+    "prevention": [
+      "Check young leaves and leaf joints every week",
+      "Keep the plant well watered so it is not drought-stressed",
+      "Do not let ants nest at the base of the tree",
+      "Encourage ladybirds and other natural enemies by not spraying broadly"
+    ],
+    "actions": [
+      "Wash off mealybugs and mites with a strong jet of water on the leaf underside",
+      "Wipe heavy mealybug clusters off with a cloth and soapy water",
+      "Cut off and burn the worst affected leaves",
+      "Control ants at the base of the stem so natural enemies can work",
+      "Repeat the washing every few days until the pest is gone"
+    ],
+    "severity": "medium",
+    "keywords": [
+      "papaya",
+      "pawpaw",
+      "mealybug",
+      "mite",
+      "spider mite",
+      "sooty mould",
+      "honeydew"
+    ],
+    "sections": [
+      {
+        "heading": "Signs",
+        "body": "White cottony clusters, sticky leaves and black sooty mould mean mealybug. Fine speckling or bronzing with dust underneath means mites."
+      },
+      {
+        "heading": "Why it happens",
+        "body": "Both feed on the sap. Ants protect mealybugs from the insects that would eat them, and mites build up fastest on dry, dusty, stressed plants."
+      },
+      {
+        "heading": "What to do",
+        "body": "Wash the leaf undersides with a strong jet of water, wipe heavy clusters with soapy water, cut off the worst leaves and burn them, and stop the ants."
+      },
+      {
+        "heading": "When to ask for help",
+        "body": "If the whole tree is covered or the fruit is affected, ask an extension officer. Avoid broad sprays, which kill the natural enemies too."
+      }
+    ]
+  }
+]

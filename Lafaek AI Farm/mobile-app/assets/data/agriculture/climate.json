@@ -1,0 +1,69 @@
+[
+  {
+    "id": "climate_seasons_tl",
+    "title": "Timor-Leste Climate and Seasons",
+    "category": "climate",
+    "crop": "general",
+    "summary": "A tropical monsoon climate with one wet season on the north coast and a longer, two-peak wet season in the south.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "North coast (Dili, Manatuto, Baucau): wet season December–April, dry May–November",
+      "South coast (Covalima, Manufahi, Viqueque): rains November–July with a second peak around May–June",
+      "Highlands (Aileu, Ermera, Ainaro): cooler, wetter, with more cloud and frost-free but cold nights",
+      "Plan planting by your zone, not the national calendar"
+    ],
+    "severity": "none",
+    "keywords": ["climate", "season", "wet season", "dry season", "monsoon", "rainfall", "north coast", "south coast", "highlands", "dili", "temperature"],
+    "sections": [
+      {"heading": "Zones", "body": "North coast has a short single wet season; the south is wetter with two peaks; the highlands are cooler and cloudier."},
+      {"heading": "Planning", "body": "Match crops and planting dates to your zone. Ask your extension office for local rainfall records."}
+    ]
+  },
+  {
+    "id": "climate_el_nino",
+    "title": "El Niño and Late Rains",
+    "category": "climate",
+    "crop": "general",
+    "summary": "El Niño years bring late, weak rains to Timor-Leste; prepare drought-tolerant crops and water storage.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Listen for El Niño warnings on radio before the planting season",
+      "Plant drought-tolerant crops (cassava, sweet potato, sorghum, cowpea) alongside maize",
+      "Wait for the soil to be properly wet before planting maize; do not plant on the first shower",
+      "Store water and mulch heavily",
+      "Keep extra seed in case a replant is needed"
+    ],
+    "severity": "none",
+    "keywords": ["el nino", "el niño", "drought", "late rains", "dry year", "climate change", "food security", "cassava", "sorghum"],
+    "sections": [
+      {"heading": "What happens", "body": "Rains start late and stop early, and dry spells hit during maize flowering."},
+      {"heading": "Prepare", "body": "Diversify with drought-tolerant crops, store water, mulch and keep replant seed."}
+    ]
+  },
+  {
+    "id": "climate_humidity_disease",
+    "title": "Humidity, Rain and Disease Risk",
+    "category": "climate",
+    "crop": "general",
+    "summary": "Fungal diseases explode when leaves stay wet; use the forecast to time pruning, harvest and watering.",
+    "symptoms": [],
+    "causes": [],
+    "prevention": [],
+    "actions": [
+      "Before heavy rain: harvest ripe fruit, check drainage, avoid nitrogen top-dressing",
+      "After rain: inspect lower leaves for spots within 2–3 days",
+      "In humid weeks: prune for airflow and water only at the base",
+      "Tomato and chili are most at risk; maize and beans are moderate; cassava is low"
+    ],
+    "severity": "none",
+    "keywords": ["humidity", "humid", "rain", "forecast", "disease risk", "fungal risk", "weather risk", "leaf wetness", "before rain", "after rain"],
+    "sections": [
+      {"heading": "The link", "body": "Most fungal diseases need 6+ hours of leaf wetness. Humidity above ~80% with rain is the danger zone."},
+      {"heading": "Use the forecast", "body": "Harvest and drain before rain; inspect and prune after."}
+    ]
+  }
+]

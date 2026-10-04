@@ -1,0 +1,54 @@
+{
+  "name": "crop_condition_mnv3s",
+  "architecture": "MobileNetV3-Small (ImageNet backbone, fine-tuned)",
+  "version": "1.2.0-dev",
+  "input": {
+    "width": 224,
+    "height": 224,
+    "channels": 3,
+    "dtype": "float32",
+    "range": "0-255 RGB (scaling is inside the model)"
+  },
+  "output": {
+    "classes": [
+      "maize_healthy",
+      "maize_leaf_blight",
+      "maize_leaf_rust",
+      "maize_leaf_spot",
+      "other",
+      "papaya_healthy",
+      "papaya_leaf_disease",
+      "papaya_pest",
+      "rice_bacterial_blight",
+      "rice_blast",
+      "rice_brown_spot",
+      "rice_healthy",
+      "tomato_healthy",
+      "tomato_leaf_problem"
+    ],
+    "activation": "softmax"
+  },
+  "training_data": "PlantVillage (CC0) maize + tomato; rice from minhhungg/rice-disease-dataset (Apache-2.0); papaya from Project-AgML/papaya_leaf_disease_classification_bangladesh (CC BY 4.0, raw config); plus an 'other' class generated from the app's own imagery",
+  "train_images": 4028,
+  "val_accuracy": 0.9507042169570923,
+  "per_class_val_accuracy": {
+    "maize_healthy": 1.0,
+    "maize_leaf_blight": 0.9736842105263158,
+    "maize_leaf_rust": 1.0,
+    "maize_leaf_spot": 0.7777777777777778,
+    "other": 1.0,
+    "papaya_healthy": 0.967741935483871,
+    "papaya_leaf_disease": 0.9375,
+    "papaya_pest": 1.0,
+    "rice_bacterial_blight": 0.94,
+    "rice_blast": 1.0,
+    "rice_brown_spot": 0.9411764705882353,
+    "rice_healthy": 1.0,
+    "tomato_healthy": 1.0,
+    "tomato_leaf_problem": 0.7966101694915254
+  },
+  "quantization": "float16 weights",
+  "file_size_bytes": 1969344,
+  "status": "development \u2014 trained on public datasets photographed outside Timor-Leste (PlantVillage studio images, rice from South-East Asia, papaya from Bangladesh). Not field-validated in Timor-Leste. Every output is a possible finding, never a confirmed diagnosis.",
+  "notes": "Sources differ per crop, so cross-dataset generalisation to real field photos is unverified. The margin guard (confidence >= 0.55 AND top1 - top2 >= 0.20) exists because of this: a near-tie is reported as unclear rather than guessed. Weakest classes are maize_leaf_spot (77.8%) and tomato_leaf_problem (79.7%), both merged multi-disease classes."
+}
